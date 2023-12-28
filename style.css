@@ -7,7 +7,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #ffffff;
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+  background: linear-gradient(to right, #4c6a7b6a, #4c6a7b86),
     url(./images/maxresdefault.jpg);
   background-position: center center;
   background-repeat: no-repeat;
